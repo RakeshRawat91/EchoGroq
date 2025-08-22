@@ -7,7 +7,11 @@ The goal of this project is to create a lightweight, user-friendly voice-enabled
 
 # Key Features
 Voice-to-Text: Converts spoken questions into text.
+
 Text-to-Voice: Reads answers aloud in a natural voice.
+
 Smart Search: Provides quick and accurate results for any query.
+
 Chat-like Interaction: Users can type or speak naturally as if talking to an assistant.
+
 Lightweight & Mini: Optimized for simplicity, speed, and ease of use.
